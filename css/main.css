@@ -43,3 +43,6 @@ h2{
 	font-family: arial;
 	font-weight: bold;
 }
+#backgroundimg{
+	background-size: cover;
+}
