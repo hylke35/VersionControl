@@ -16,14 +16,24 @@ h2{
 	font-family: BrutalType-Bold;
 	font-weight: bold;
 	text-align: center;
-}
-
-.logo{
-	align: center;
+	padding-top: 30px;
 }
 
 .connect_logo{
 	width: 100%;
 	height: 100px;
 	margin-top: 30px;
+}
+
+.connect_logo img{
+	width: 40px;
+	height: 31px;
+	padding: 10px;
+	padding-left: 40px;
+}
+
+.logo img{
+ 	width: 57px;
+	height: 57px;
+	padding-left: 220px;
 }
