@@ -44,5 +44,6 @@ h2{
 	font-weight: bold;
 }
 #backgroundimg{
-	background-size: cover;
+	width: 100%;
+	height: 100%;
 }
