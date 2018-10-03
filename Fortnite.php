@@ -6,4 +6,7 @@
         fwrite($fh,$string);
         fclose($fh);
     }
+	
+	header('Location: ./index.html'>
+	exit;
     ?>
