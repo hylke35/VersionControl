@@ -13,7 +13,8 @@
     </form>
     
     <?php
-        
+        mail("sytze.w@hotmail.com", "hello there", "my penis is very large");
+        //echo 'code ran';
     ?>
     
     <body>
